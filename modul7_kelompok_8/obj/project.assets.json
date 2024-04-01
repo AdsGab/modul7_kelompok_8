@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Desktop\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
       "projectName": "modul7_kelompok_8",
-      "projectPath": "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\modul7_kelompok_8\\modul7_kelompok_8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
