@@ -4,5 +4,6 @@
     {
         DataMahasiswa1302220053.ReadJson();
         TeamMembers1302220053.ReadJson();
+        GlossaryItem1302220053.ReadJson();
     }
 }
