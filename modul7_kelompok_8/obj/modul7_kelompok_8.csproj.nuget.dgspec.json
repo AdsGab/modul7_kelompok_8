@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {}
+    "C:\\Users\\SWIFT\\Documents\\tpmod7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {}
   },
   "projects": {
-    "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {
+    "C:\\Users\\SWIFT\\Documents\\tpmod7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
+        "projectUniqueName": "C:\\Users\\SWIFT\\Documents\\tpmod7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
         "projectName": "modul7_kelompok_8",
-        "projectPath": "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\modul7_kelompok_8\\modul7_kelompok_8\\obj\\",
+        "projectPath": "C:\\Users\\SWIFT\\Documents\\tpmod7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
+        "packagesPath": "C:\\Users\\SWIFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SWIFT\\Documents\\tpmod7\\modul7_kelompok_8\\modul7_kelompok_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SWIFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
