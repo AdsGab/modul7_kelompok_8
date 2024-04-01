@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Gabrielle",
+       "lastName": "Felime",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302220053"
+    },
+    {
+       "firstName": "Rafli",
+       "lastName": "Denistri",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302223153"
+    },
+    {
+       "firstName": "Reinhard",
+       "lastName": "Situmeang",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302220001"
+    }
+  ]
+}

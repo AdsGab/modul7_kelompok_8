@@ -1,9 +1,16 @@
-﻿internal class Program
+
+using System;
+using System.IO;
+using System.Text.Json;
+
+public class Program
 {
-    private static void Main(string[] args)
+    public static void Main()
     {
-        DataMahasiswa1302223153.ReadJSON();
-        TeamMembers1302223153.ReadJSON();
-        //GlossaryItem1302223153.ReadJSON();
+        DataMahasiswa1302220053.ReadJson();
+        TeamMembers1302220053.ReadJson();
+        GlossaryItem1302220053.ReadJson();
+        TeamMembers_1302220001.ReadJSON();
+        DataMahasiswa_1302220001.ReadJSON();
     }
 }
