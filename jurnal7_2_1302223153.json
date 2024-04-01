@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+       "firstName": "Rafli",
+       "lastName": "Denistri",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302223153"
+    },
+    {
+       "firstName": "Gabrielle",
+       "lastName": "Felime",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302220053"
+    },
+    {
+       "firstName": "Reinhard",
+       "lastName": "Situmeang",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302220001"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Fadhilah",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302220020"
+    },
+    {
+      "firstName": "Rizky",
+      "lastName": "Nugraha",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302220013"
+    },
+    {
+      "firstName": "Shela",
+      "lastName": "Tappa",
+      "gender": "female",
+      "age": 20,
+      "nim": "103012390001"
+    }
+  ]
+}
