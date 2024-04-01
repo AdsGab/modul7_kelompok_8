@@ -6,6 +6,9 @@ public class Program
 {
     public static void Main()
     {
+        DataMahasiswa1302220053.ReadJson();
+        TeamMembers1302220053.ReadJson();
+        GlossaryItem1302220053.ReadJson();
         TeamMembers_1302220001.ReadJSON();
         DataMahasiswa_1302220001.ReadJSON();
     }

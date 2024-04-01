@@ -1,0 +1,15 @@
+{
+   "firstName": "Gabrielle",
+   "lastName": "Felime",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Sarigading",
+       "city": "Denpasar",
+       "state": "Bali"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "UWJXf4", "name": "Kewirausahaan" }
+   ]
+}
